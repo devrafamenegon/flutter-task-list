@@ -1,4 +1,4 @@
-# flutter_lista_tarefas
+# Flutter Task List
 
 App using Flutter and Dart, this application saves your tasks permanently and have functions for check/remove them.
 
